@@ -1,4 +1,4 @@
-FROM evarga/jenkins-slave
+FROM jenkinsci/jnlp-slave
 MAINTAINER Francois Drouin-Morin
 
 USER root
